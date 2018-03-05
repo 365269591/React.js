@@ -1,0 +1,27 @@
+@import url("reset.css");
+.banner{
+	width: 100%;height: 4.22rem;
+}
+.banner img{
+	width: 100%;height: 100%;
+}
+.banner-f li{
+	width: 6.82rem;height: 4.84rem;margin: 0.4rem;background: #FFFFFF;
+}
+.ul-left{
+	float: left;
+}
+.ul-right{
+	float: right;color: #f78360;font-size: 18px;margin-top: 0.2rem;margin-right: 0.1rem;
+}
+.foot-T span{
+	margin: 0 0.05rem;color: #666666;
+}
+.header-T{
+	margin-top: 0.2rem;margin-left: 0.1rem;
+}
+
+.btn_bottom p{
+	width: 3.2rem;height: 0.6rem;border: 1px solid #666666;text-align: center;line-height: 0.6rem;color: #666666;
+	border-radius: 30%;margin: 0 auto;
+}

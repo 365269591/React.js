@@ -1,0 +1,17 @@
+.films-T{
+	width: 6.9rem;height: 0.94rem;text-align: center;margin-left: 0.3rem;line-height: 0.92rem;
+}
+.films-T li{
+	width: 3.45rem;float: left;border-bottom: 1px solid #fe6e00;height: 0.92rem;
+}
+.films-T ul {
+	height: 100%;width: 100%;
+}
+.active{
+	color:#fe6e00 ;
+	border-bottom: solid;
+	height: 0.87rem;
+	width: 3.45rem;
+	display: inline-block;
+	font-size: 16px;
+}
